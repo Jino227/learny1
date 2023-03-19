@@ -1,0 +1,53 @@
+
+.wallpaper{
+    height: 450px;
+    width: 100%;
+    display: flex;
+   
+}
+.wallleft{
+    flex: 6;
+}
+.wallright{
+    flex: 6;
+}
+.wallimg{
+    height: 450px;
+    width: 100%;
+}
+.head{
+    margin-left: 150px;
+    margin-top: 80px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+}
+.para{
+    margin-left: 140px;
+    font-size: 20px;
+   font-family: 'Poppins', sans-serif;
+  
+
+}
+.started{
+    height: 30px;
+    background-color: blue;
+    border-radius: 10px;
+    font-weight: 600;
+    border: 0;
+    color: antiquewhite;
+   margin-left: 140px;
+    margin-top: 30px;
+    width: 150px;
+}
+.learnmore{
+    height: 30px;
+    background-color:white;
+    border-radius: 10px;
+    font-weight: 600;
+    border: 0;
+    color:black;
+    
+    margin-top: 30px;
+    width: 150px;
+
+}
